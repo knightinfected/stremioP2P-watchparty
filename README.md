@@ -3,7 +3,9 @@
 ![PeerJS](https://img.shields.io/badge/PeerJS-P2P-green)
 
 **Real-time sync with P2P (PeerJS), auto-load, progress-based playback alignment, and a modern UI for creating and joining watch parties.**
+**Made it so my brother and cousin can use it- Reason**
 
+ 
 ---
 
 ## ✅ Features
