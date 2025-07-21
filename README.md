@@ -4,6 +4,7 @@
 
 **Real-time sync with P2P (PeerJS), auto-load, progress-based playback alignment, and a modern UI for creating and joining watch parties.**
 **Made it so my brother and cousin can use it- Reason**
+**It is a work in progress and I am new to this site (github) so thanks for trying out.**
 
  
 ---
