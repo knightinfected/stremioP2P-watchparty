@@ -3,9 +3,9 @@
 ![PeerJS](https://img.shields.io/badge/PeerJS-P2P-green)
 
 **Real-time sync with P2P (PeerJS), auto-load, progress-based playback alignment, and a modern UI for creating and joining watch parties.**
-**Made it so my brother and cousin can use it- Reason**
-**It is a work in progress and I am new to this site (github) so thanks for trying out.**
-
+**Made it so my brother and cousin can use it- Reason.**
+**It is a work in progress and I am new to this site (github) I'm still learning, so feedback and contributions are welcome.**
+**Also you can drop this as a PLUGIN with Stremio Enhanced by @REVENGE977 (https://github.com/REVENGE977/stremio-enhanced)**
  
 ---
 
@@ -74,7 +74,8 @@ CustomPlayerAPI for robust player control
 
 🖼 Screenshots
  Coming soon
-
+## 🙌 Acknowledgments
+- [stremio-enhanced](https://github.com/REVENGE977/stremio-enhanced) for inspiring feature ideas.
 
 📄 License
 MIT License © knightinfected
